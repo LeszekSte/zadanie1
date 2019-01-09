@@ -4,5 +4,9 @@ public class Main {
         System.out.println("Uczę\nsię\nprogramowania");
         System.out.println("i");
         System.out.println("commitowania");
+        System.out.println("Zabawa z zadaniem");
+
+
+
         }
 }
